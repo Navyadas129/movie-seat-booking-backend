@@ -16,7 +16,7 @@ Out of scope:
 - Payments
 - Authentication
 - UI
-- Movie or theatre management
+- Movie or theatre management 
 
 ---
 
